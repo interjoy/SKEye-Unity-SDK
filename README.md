@@ -11,7 +11,11 @@ v1.0.0
 - 将SKEye-Unity-SDK.unitypackage导入Unity。
 - 打开WebCamera场景，配置好申请的Api Key和Api Secret。
 - 运行代码。
+<<<<<<< HEAD
 - 更多使用介绍请参考 [SKEye-Unity-SDK说明文档v1.0.0.pdf](https://github.com/interjoy/SKEye-Android-SDK/blob/master/SKEye-Android-SDK%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3V1.0.0.pdf)。
+=======
+- 更多使用介绍请参考 [SKEye-Unity-SDK说明文档v1.0.0.pdf](https://github.com/interjoy/SKEye-Unity-SDK/blob/master/SKEye-Unity-SDK%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3V1.0.0.pdf)。
+>>>>>>> 67e2b84fa63116f53e5e1ebea0171a270ed3af60
 ###  调用示例
     void Start () {
         PluginImportManage.Instance.MouseOver += Listener;
@@ -31,4 +35,8 @@ v1.0.0
 
     }
 ###  SDK问题反馈
+<<<<<<< HEAD
 - SKEye开放平台QQ群：617518775
+=======
+- SKEye开放平台QQ群：617518775
+>>>>>>> 67e2b84fa63116f53e5e1ebea0171a270ed3af60
