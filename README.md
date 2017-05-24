@@ -5,7 +5,7 @@ v1.0.0
 - 发布常见物体识别、水果识别功能
 ###  目录介绍
 - SKEye-Unity-SDK.unitypackage: unity包。
-- 说明文档(SKEye-Unity-SDK说明文档v1.0.0.pdf)
+- 说明文档(SKEye-Unity-SDK说明文档v1.0.1.pdf)
 ###  使用步骤
 - 下载SKEye-Unity-SDK.unitypackage文件包。
 - 将SKEye-Unity-SDK.unitypackage导入Unity。
