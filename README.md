@@ -1,6 +1,8 @@
 # SKEye-Unity-SDK
 SKEye-Unity-SDK for Object Recognition Service 
 ###  更新日志
+v1.0.2
+- 优化网络模块请求
 v1.0.0
 - 发布常见物体识别、水果识别功能
 ###  目录介绍
