@@ -2,7 +2,7 @@
 SKEye-Unity-SDK for Object Recognition Service 
 ###  更新日志
 v1.0.5
-- 优化网络请求模块
+- 优化Android网络请求模块
 
 v1.0.4
 - 调用Android/IOS/Win 平台初始化时候不需要再传递版本号
